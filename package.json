@@ -1,0 +1,14 @@
+{
+  "name": "node_amember",
+  "version": "1.0.0",
+  "description": "A package that allows your application to interact with a website's amember installation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amember"
+  ],
+  "author": "Darrius Serrant",
+  "license": "GPL-3.0-or-later"
+}
